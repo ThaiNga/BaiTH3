@@ -25,7 +25,7 @@ a {
     margin:auto;
 }
 .header {
-    background-image: url("./images/background.png");
+    background-image: url("1../images/background.png");
     color:#fff;
 }
 .header a {
@@ -214,7 +214,7 @@ h2.box-title{
    margin-bottom: 20px;
 }
 .contact{
-    background-image: url("./images/background.png");
+    background-image: url("1../images/background.png");
     color: #CDEBC9;
 }
 .container-3col.educate{
